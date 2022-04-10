@@ -24,10 +24,9 @@
   font-weight: normal;
   color: #493ffc;
 }
-.main-image .title-wrapper .uoft {
-  font-size: 1.9rem;
-}
-.main-image .title-wrapper .fo {
+
+.main-image .title-wrapper .cheapify {
+  margin-top: 2em;
   font-size: 3rem;
   font-weight: bold;
 }

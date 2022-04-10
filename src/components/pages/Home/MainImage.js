@@ -9,8 +9,7 @@ function MainImage() {
       <img src={mainImage} alt='main' />
       <div className='text' >
         <h1 className='title-wrapper'>
-          <p className="uoft">University of Toronto</p>
-          <p className="fo">Freelancer's<br/>Organization</p>
+          <p className="cheapify">Cheapify</p>
         </h1>
         <AboutLink />
       </div>

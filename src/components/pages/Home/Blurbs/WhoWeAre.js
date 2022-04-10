@@ -13,20 +13,20 @@ export function WhoWeAre() {
 
       <div className="blurb">
         <p>
-          Think of us like an{" "}
-          <span className="purple">outsourcing company</span> for your
-          website...except we’re <span className="purple">FREE</span>!
+          Think of us like a{" "}
+          <span className="purple">money-saving machine</span>
         </p>
       </div>
 
       <div className="conversation">
-        <span className="vertical">BUILD</span>
+        <span className="vertical-main-left">MOVIE</span>
+        <span className="vertical-subtitle-left">streaming services</span>
         <div className="character">
           <img src={Character1} alt="" />
         </div>
         <div className="stack">
           <span className="speech-bubble sbPurple sbLeft">
-            "I’d like a personal website/portfolio!"
+            "I’d like to watch any movie I want in HD"
           </span>
           <span className="speech-bubble sbGray sbRight">
             "No problem! Let’s meet this weekend for details"
@@ -40,16 +40,17 @@ export function WhoWeAre() {
       <div className="line"></div>
 
       <div className="conversationAlt">
-        <span className="vertical">FIX</span>
+        <span className="vertical-main-right">MUSIC</span>
+        <span className="vertical-subtitle-right">streaming services</span>
         <div className="character">
           <img src={Character2} alt="" />
         </div>
         <div className="stack">
           <span className="speech-bubble sbPurple sbRightAlt">
-            "The submission form for club applicants is broken on my site!"
+            "Man, I wish I could access multiple music services for cheaper."
           </span>
           <span className="speech-bubble sbGray sbLeftAlt">
-            "I’ll get a team of backend specialists to fix that ASAP!"
+            "No worries, all of our music services are half the price."
           </span>
         </div>
         <div className="characterFlipped">
@@ -60,16 +61,17 @@ export function WhoWeAre() {
       <div className="line"></div>
 
       <div className="conversation">
-        <span className="vertical">DESIGN</span>
+        <span className="vertical-main-left">     24/7</span>
+        <span className="vertical-subtitle-left">customer support</span>
         <div className="character">
           <img src={Character3} alt="" />
         </div>
         <div className="stack">
           <span className="speech-bubble sbPurple sbLeft">
-            "Our website doesn’t look very good..."
+            "I am facing issues with my services!"
           </span>
           <span className="speech-bubble sbGray sbRight">
-            "Don’t worry! Our designers do wonderful work!"
+            "Cheapify is always here for you with immediate customer service."
           </span>
         </div>
         <div className="character">

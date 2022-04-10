@@ -18,11 +18,11 @@ function Home() {
           <About />
         </div>
       </div>
-      <div className="article reveal accent">
+      {/* <div className="article reveal accent">
         <div className="inner">
           <Article />
         </div>
-      </div>
+      </div> */}
     </div>
   );
 }

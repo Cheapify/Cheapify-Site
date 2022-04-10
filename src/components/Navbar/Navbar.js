@@ -21,7 +21,7 @@ class Navbar extends Component {
             </Link>
           </h1>
           <h1 className="navbar-logo utfo">
-            <Link to="/">UTFO</Link>
+            <Link to="/">Cheapify</Link>
           </h1>
           <div className="menu-icon" onClick={this.handleClick}>
             <i

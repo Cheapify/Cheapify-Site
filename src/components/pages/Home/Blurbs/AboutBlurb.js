@@ -10,8 +10,8 @@ export function AboutBlurb() {
         <img src={TopQuote} alt="" />
       </p>
       <p>
-        Work with us and get your <span className="turquoise">dream site</span>{" "}
-        now at no cost!
+        Work with us and get your <span className="turquoise">favorite service</span>{" "}
+        now at low cost!
       </p>
       <p className="quote">
         <img src={BottomQuote} alt="" />

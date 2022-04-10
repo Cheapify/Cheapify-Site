@@ -7,7 +7,7 @@ function About() {
 			<h1>
 				<span>About</span>
 				<span className="space"> </span>
-				<span className="utfo">UTFO</span>
+				<span className="cheapify">Cheapify</span>
 			</h1>
 			<div>
 				<img src={UofT} alt="UofT logo" />
