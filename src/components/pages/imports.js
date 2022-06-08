@@ -6,4 +6,4 @@ import Article from './Article-Redesign/index.js';
 import ArticlePage from "./Article-Page/ArticlePage";
 import ArticleEditor from "./Article-Editor/ArticleEditor";
 
-export { Home, About, Article, Contact, Apply, ArticleEditor, ArticlePage };
+export { Home, About, Article, Contact };
