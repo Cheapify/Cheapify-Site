@@ -4,10 +4,7 @@ import {
   Home,
   About,
   Article,
-  Contact,
-  Apply,
-  ArticleEditor,
-  ArticlePage,
+  Contact,,
 } from "./components/pages/imports";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer";
