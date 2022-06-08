@@ -1,6 +1,7 @@
 import { styled } from "@mui/system";
 
 export const HeaderContainer = styled("div")(({ theme }) => ({
+    display: "flex",
     flexDirection: "column",
 }));
 
