@@ -1,6 +1,5 @@
 import MainImage from "./MainImage";
 import { AboutBlurb as About } from "./Blurbs/AboutBlurb";
-import Article from "./Blurbs/ArticleBlurb";
 import { WhoWeAre } from "./Blurbs/WhoWeAre";
 import "./Home.css";
 

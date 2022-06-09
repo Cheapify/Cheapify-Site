@@ -21,16 +21,7 @@ function App() {
         <Routes>
           <Route index element={<Home />} />
           <Route path="/about" element={<About />} />
-          <Route path="/articles" element={<Article />} />
-          <Route path="/articles/:id" element={<ArticlePage />} />
-          {process.env.NODE_ENV === 'development' ?
-            <>
-              <Route path="/article-editor" element={<ArticleEditor />} />
-              <Route path="/article-editor/:id" element={<ArticleEditor />} />
-            </>
-            : null}
           <Route path="/contact" element={<Contact />} />
-          <Route path="/apply" element={<Apply />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
         <Footer />
