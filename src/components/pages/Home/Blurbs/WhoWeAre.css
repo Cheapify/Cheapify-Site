@@ -1,7 +1,7 @@
 .title {
   font-size: 3rem;
   font-weight: bold;
-  color: #493ffc;
+  color: #2f9b7b;
 }
 
 .blurb {
@@ -9,12 +9,12 @@
   display: block;
   line-height: 1.5;
 }
-.purple {
-  color: #5029fc;
+.sbTurquoise {
+  color: #2f9b7b;
 }
 
 .vertical-main-right {
-  color: #5029fc;
+  color: #2f9b7b;
   margin-top: 0.7em;
   font-size: 4em;
   font-weight: bold;
@@ -28,7 +28,7 @@
 }
 
 .vertical-main-left {
-  color: #5029fc;
+  color: #2f9b7b;
   margin-top: 0.7em;
   margin-left: 0;
   font-size: 4em;
@@ -123,8 +123,8 @@
   align-items: center;
 }
 
-.sbPurple {
-  background: #6f4dfd;
+.sbTurquoise {
+  background: #2f9b7b;
   color: white;
 }
 
@@ -151,8 +151,8 @@
   height: 0px;
   position: absolute;
   border-left: 10px solid transparent;
-  border-right: 10px solid #6f4dfd;
-  border-top: 10px solid #6f4dfd;
+  border-right: 10px solid #2f9b7b;
+  border-top: 10px solid #2f9b7b;
   border-bottom: 10px solid transparent;
   left: -19px;
   bottom: 20px;
@@ -163,9 +163,9 @@
   width: 0px;
   height: 0px;
   position: absolute;
-  border-left: 10px solid #6f4dfd;
+  border-left: 10px solid #2f9b7b;
   border-right: 10px solid transparent;
-  border-top: 10px solid #6f4dfd;
+  border-top: 10px solid #2f9b7b;
   border-bottom: 10px solid transparent;
   right: -20px;
   bottom: 20px;

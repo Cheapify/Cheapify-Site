@@ -3,11 +3,7 @@ import "./App.css";
 import {
   Home,
   About,
-  Article,
   Contact,
-  Apply,
-  ArticleEditor,
-  ArticlePage,
 } from "./components/pages/imports";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer";

@@ -18,14 +18,14 @@
   background: linear-gradient(
     transparent 0%,
     transparent 49.9%,
-    #6c63ff 50%,
-    #6c63ff 100%
+    #25be90 50%,
+    #2f9b7b 100%
   );
 }
 
 .about-link div {
-  border: 3px solid #493ffc;
-  color: #493ffc;
+  border: 3px solid #2f9b7b;
+  color: #2f9b7b;
   text-transform: uppercase;
   padding: 0.5rem;
   padding-left: 0.75rem;
@@ -40,7 +40,7 @@
 .about-link div:hover {
   transform: scale(1.03);
 
-  background-color: #493ffc;
+  background-color: #2f9b7b;
   color: white;
   transition: 200ms;
 }
@@ -51,9 +51,9 @@ a.about-link {
 }
 .about-link div:hover {
   color: #fff;
-  background-color: #493ffc;
+  background-color: #2f9b7b;
 }
 
 .turquoise {
-  color: aqua;
+  color: rgb(244, 151, 29);
 }

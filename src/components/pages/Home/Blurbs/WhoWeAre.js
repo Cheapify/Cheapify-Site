@@ -6,7 +6,7 @@ import SpearMan from "../../../../assets/logo_spearman_char.png";
 
 export function WhoWeAre() {
   return (
-    <>
+    <> 
       <div className="title">
         <p>Who Are We?</p>
       </div>
@@ -14,7 +14,7 @@ export function WhoWeAre() {
       <div className="blurb">
         <p>
           Think of us like a{" "}
-          <span className="purple">money-saving machine</span>
+          <span className="">money-saving machine</span>
         </p>
       </div>
 
@@ -25,7 +25,7 @@ export function WhoWeAre() {
           <img src={Character1} alt="" />
         </div>
         <div className="stack">
-          <span className="speech-bubble sbPurple sbLeft">
+          <span className="speech-bubble sbTurquoise sbLeft">
             "I’d like to watch any movie I want in HD"
           </span>
           <span className="speech-bubble sbGray sbRight">
@@ -46,7 +46,7 @@ export function WhoWeAre() {
           <img src={Character2} alt="" />
         </div>
         <div className="stack">
-          <span className="speech-bubble sbPurple sbRightAlt">
+          <span className="speech-bubble sbTurquoise sbRightAlt">
             "Man, I wish I could access multiple music services for cheaper."
           </span>
           <span className="speech-bubble sbGray sbLeftAlt">
@@ -67,7 +67,7 @@ export function WhoWeAre() {
           <img src={Character3} alt="" />
         </div>
         <div className="stack">
-          <span className="speech-bubble sbPurple sbLeft">
+          <span className="speech-bubble sbTurquoise sbLeft">
             "I am facing issues with my services!"
           </span>
           <span className="speech-bubble sbGray sbRight">
